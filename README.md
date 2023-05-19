@@ -21,3 +21,9 @@ This is a slackbot which can use chatgpt. The script is hosted on Azure.
 	4. Set up a webapp in Azure and connect to the github repo. 
 	Add the environment secrets (SLACK_BOT_TOKEN, SLACK_SIGNING_SECRET, OPENAI_API_KEY)
 	 
+** Usage**
+
+
+
+https://github.com/shaikh1994/Chatgpt-Slack/assets/43321233/86d337cb-0a8b-4532-9f2b-b7f755dda4b0
+
