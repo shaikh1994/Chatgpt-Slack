@@ -24,6 +24,5 @@ This is a slackbot which can use chatgpt. The script is hosted on Azure.
 ** Usage**
 
 
-
-https://github.com/shaikh1994/Chatgpt-Slack/assets/43321233/86d337cb-0a8b-4532-9f2b-b7f755dda4b0
+![chatgpt](https://github.com/shaikh1994/Chatgpt-Slack/assets/43321233/5fa62eb5-00ac-435f-8dfe-536894d4fb2f)
 
